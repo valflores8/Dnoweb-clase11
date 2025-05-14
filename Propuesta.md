@@ -1,5 +1,4 @@
-# Dnoweb-clase11
-## propuesta final
+# Dnoweb-clase11: propuesta final
 
 *entrega final mi 18 de junio*
 
