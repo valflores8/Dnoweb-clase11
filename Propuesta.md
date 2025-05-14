@@ -9,8 +9,11 @@
 
 
 ### Propuestas:
-*1- repositorio de información: proyectos de seminario de diseño*
+*1- repositorio de información: proyectos de seminario de diseño:*
 
 cruzar los temas de los proyectos, profesores, notas, cuales fueron individual o en parejas y enlazarlos con aquellos que se desarrollaron como proyectos de título
 
-*2- 
+*2- trastornos alimenticios en Chile y su evolución en el tiempo:*
+
+
+*3- Urbanización de Santiago de Chile: crecimiento de la ciudad y su ocupación*
