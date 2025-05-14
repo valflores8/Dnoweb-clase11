@@ -6,3 +6,10 @@
 
 ### Antecedentes 
 [Reuters graphics](https://www.reuters.com/graphics/)
+
+
+### Propuestas:
+*1- repositorio de información: proyectos de seminario de diseño*
+cruzar los temas de los proyectos, profesores, notas, cuales fueron individual o en parejas y enlazarlos con aquellos que se desarrollaron como proyectos de título
+
+*2- 
