@@ -15,6 +15,16 @@ cruzar los temas de los proyectos, profesores, notas, cuales fueron individual o
 
 *2- trastornos alimenticios en Chile y su evolución en el tiempo:*
 
+cruce de información y gráfica de:
+- tipos de trastornos
+- por rangos de edad
+- evolución en el tiempo
+- mujeres vs hombres
+- periodos de tratamiento/ recuperación
+
 
 *3- Urbanización de Santiago de Chile: crecimiento de la ciudad y su ocupación*
+- crecimiento poblacional en las comunas principales 
+- aumento del terreno habitable/construido
+- 
 
