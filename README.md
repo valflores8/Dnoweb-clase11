@@ -11,7 +11,14 @@ Enfermedades respiratorias 2025
 Vacunación contra influenza, VRS(sincitial) y covid, vs sus casos activos/registrados~~
 
 opción 2: Influenza
-fechas de vacunación, a quienes, casos prioritarios, sintomas, casos activos/registrados
+- [ ] sintomatología Influenza (gripe)
+- [ ] Sintomatología Influenza vs covid
+- [ ] vacunación a casos prioritatios (quienes son)
+- [ ] Fechas de vacunación
+- [ ] Casos activos/registrados 2025
+- [ ] comparativa 2019 - 2025 ??
+- [ ] cuidados ??
+
 
 (aún no almacenado)[Base de datos: Enfermedades respiratorias](https://docs.google.com/spreadsheets/d/1_-nDjzPsNxj_cQfy0z5_g1rJD5TwXvLFTcSdzHixoNI/edit?usp=sharing)
 
