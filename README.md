@@ -38,7 +38,10 @@ VRS,inlfuenza A y B,covid: [Informes de Vigilancia de Virus Respiratorios](https
 
 [personas en riesgo, Campaña Influenza 2019](http://cognos.deis.cl/ibmcognos/cgi-bin/cognos.cgi?b_action=cognosViewer&ui.action=run&ui.object=%2fcontent%2ffolder%5b%40name%3d%27PUB%27%5d%2ffolder%5b%40name%3d%27REPORTES%27%5d%2ffolder%5b%40name%3d%27Inmunizacion%20Influenza%27%5d%2freport%5b%40name%3d%27Campa%C3%B1a%202019%20-%20Cobertura%27%5d&cv.toolbar=false&cv.header=false&ui.name=Campa%C3%B1a%202019%20-%20Cobertura&run.outputFormat=&run.prompt=false#)
 
-[title](https://public.tableau.com/app/profile/deis4231/viz/VacunacinInfantil2019/ReporteraProgramticas)
+[GES](https://deis.minsal.cl/)
 
+[title](aaa)
+
+[title](aaa)
 
 [title](aaa)
