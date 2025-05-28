@@ -7,8 +7,8 @@
 ### Propuestas:
 Enfermedades respiratorias 2025
 
-opción 1: comparativa gráfica:
-~Vacunación contra influenza, VRS(sincitial) y covid, vs sus casos activos/registrados~
+~~opción 1: comparativa gráfica:
+Vacunación contra influenza, VRS(sincitial) y covid, vs sus casos activos/registrados~~
 
 opción 2: Influenza
 fechas de vacunación, a quienes, casos prioritarios, sintomas, casos activos/registrados
@@ -33,12 +33,5 @@ VRS,inlfuenza A y B,covid: [Informes de Vigilancia de Virus Respiratorios](https
 
 [title](https://public.tableau.com/app/profile/deis4231/viz/VacunacinInfantil2019/ReporteraProgramticas)
 
-[title](aaa)
-
-[title](aaa)
-
-[title](aaa)
-
-[title](aaa)
 
 [title](aaa)
