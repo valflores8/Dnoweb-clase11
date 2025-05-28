@@ -13,15 +13,16 @@ Vacunación contra influenza, VRS(sincitial) y covid, vs sus casos activos/regis
 opción 2: Influenza
 fechas de vacunación, a quienes, casos prioritarios, sintomas, casos activos/registrados
 
+(aún no almacenado)[Base de datos: Enfermedades respiratorias](https://docs.google.com/spreadsheets/d/1_-nDjzPsNxj_cQfy0z5_g1rJD5TwXvLFTcSdzHixoNI/edit?usp=sharing)
+
 
 ### Antecedentes 
 [Reuters graphics](https://www.reuters.com/graphics/)
 
 #### Datos
-VRS,inlfuenza A y B,covid: [Informes de Vigilancia de Virus Respiratorios](https://www.ispch.gob.cl/virusrespiratorios/) [Informe semanal de Circulación de Virus Respiratorios 2025](https://www.ispch.gob.cl/biomedico/vigilancia-de-laboratorio/ambitos-de-vigilancia/vigilancia-virus-respiratorios/informes-virus-respiratorios/?y=2025)
+
+VRS,inlfuenza A y B,covid: [Informes de Vigilancia de Virus Respiratorios](https://www.ispch.gob.cl/virusrespiratorios/), [Informe semanal de Circulación de Virus Respiratorios 2025](https://www.ispch.gob.cl/biomedico/vigilancia-de-laboratorio/ambitos-de-vigilancia/vigilancia-virus-respiratorios/informes-virus-respiratorios/?y=2025)
 
 [title](aaa)
 [title](aaa)
-[title](aaa)
-
 
