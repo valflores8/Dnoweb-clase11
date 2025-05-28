@@ -20,7 +20,7 @@ opción 2: Influenza
 - [ ] cuidados ??
 
 
-(aún no almacenado)[Base de datos: Enfermedades respiratorias](https://docs.google.com/spreadsheets/d/1_-nDjzPsNxj_cQfy0z5_g1rJD5TwXvLFTcSdzHixoNI/edit?usp=sharing)
+(aún no almacenado)[Base de datos: Influenza y covid ](https://docs.google.com/spreadsheets/d/1_-nDjzPsNxj_cQfy0z5_g1rJD5TwXvLFTcSdzHixoNI/edit?usp=sharing)
 
 
 ### Antecedentes 
@@ -30,7 +30,6 @@ opción 2: Influenza
 
 VRS,inlfuenza A y B,covid: [Informes de Vigilancia de Virus Respiratorios](https://www.ispch.gob.cl/virusrespiratorios/), [Informe semanal de Circulación de Virus Respiratorios 2025](https://www.ispch.gob.cl/biomedico/vigilancia-de-laboratorio/ambitos-de-vigilancia/vigilancia-virus-respiratorios/informes-virus-respiratorios/?y=2025)
 
-[RNI, Campaña vacunación VRS 2025](https://informesdeis.minsal.cl/SASVisualAnalytics/?reportUri=%2Freports%2Freports%2F6a775148-4751-4983-8163-a408e2437f52&sectionIndex=0&sso_guest=true&sas-welcome=false)
 
 [Campaña vacunación Influenza 2025](https://informesdeis.minsal.cl/SASVisualAnalytics/?reportUri=%2Freports%2Freports%2Ff7beae19-0ab8-44dd-b26e-89a481315afb&sectionIndex=0&sso_guest=true&sas-welcome=false)
 
@@ -40,8 +39,6 @@ VRS,inlfuenza A y B,covid: [Informes de Vigilancia de Virus Respiratorios](https
 
 [GES](https://deis.minsal.cl/)
 
-[title](aaa)
+[a](aaa)
 
-[title](aaa)
 
-[title](aaa)
