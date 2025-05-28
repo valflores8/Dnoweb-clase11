@@ -1,30 +1,27 @@
 # Dnoweb-clase11: propuesta final
 
-*entrega final mi 18 de junio*
+*entrega final mi 18 de junio, reentrega 25 de junio*
 
-**Reentrega mi 25 de junio**
+
+
+### Propuestas:
+Enfermedades respiratorias 2025
+
+opción 1: comparativa gráfica:
+Vacunación contra influenza, VRS(sincitial) y covid, vs sus casos activos/registrados
+
+opción 2: Influenza
+fechas de vacunación, a quienes, casos prioritarios, sintomas, casos activos/registrados
+
 
 ### Antecedentes 
 [Reuters graphics](https://www.reuters.com/graphics/)
 
+#### Datos
+VRS,inlfuenza A y B,covid: [Informes de Vigilancia de Virus Respiratorios](https://www.ispch.gob.cl/virusrespiratorios/) [Informe semanal de Circulación de Virus Respiratorios 2025](https://www.ispch.gob.cl/biomedico/vigilancia-de-laboratorio/ambitos-de-vigilancia/vigilancia-virus-respiratorios/informes-virus-respiratorios/?y=2025)
 
-### Propuestas:
-*1- repositorio de información: proyectos de seminario de diseño:*
+[title](aaa)
+[title](aaa)
+[title](aaa)
 
-cruzar los temas de los proyectos, profesores, notas, cuales fueron individual o en parejas y enlazarlos con aquellos que se desarrollaron como proyectos de título
-
-*2- trastornos alimenticios en Chile y su evolución en el tiempo:*
-
-cruce de información y gráfica de:
-- tipos de trastornos
-- por rangos de edad
-- evolución en el tiempo
-- mujeres vs hombres
-- periodos de tratamiento/ recuperación
-
-
-*3- Urbanización de Santiago de Chile: crecimiento de la ciudad y su ocupación*
-- crecimiento poblacional en las comunas principales 
-- aumento del terreno habitable/construido
-- 
 
