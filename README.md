@@ -28,7 +28,8 @@ opción 2: Influenza
 
 #### Datos
 
-VRS,inlfuenza A y B,covid: [Informes de Vigilancia de Virus Respiratorios](https://www.ispch.gob.cl/virusrespiratorios/), [Informe semanal de Circulación de Virus Respiratorios 2025](https://www.ispch.gob.cl/biomedico/vigilancia-de-laboratorio/ambitos-de-vigilancia/vigilancia-virus-respiratorios/informes-virus-respiratorios/?y=2025)
+VRS,inlfuenza A y B,covid: [Informes de Vigilancia de Virus Respiratorios](https://www.ispch.gob.cl/virusrespiratorios/), [Informe semanal de Circulación de Virus Respiratorios 2025](https://www.ispch.gob.cl/biomedico/vigilancia-de-laboratorio/ambitos-de-vigilancia/vigilancia-virus-respiratorios/informes-virus-respiratorios/?y=2025) 
+(he enviado un correo consultando por la base de datos)
 
 
 [Campaña vacunación Influenza 2025](https://informesdeis.minsal.cl/SASVisualAnalytics/?reportUri=%2Freports%2Freports%2Ff7beae19-0ab8-44dd-b26e-89a481315afb&sectionIndex=0&sso_guest=true&sas-welcome=false)
